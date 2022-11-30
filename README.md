@@ -7,25 +7,25 @@ ML:
 			- Utilizamos una BD de Kaggle para realizar el ETL de los datos.
 			
 	* Wili - M5 - 01 - Python Notebook:
-			-	Repaso conceptos básicos Python.
+			 - Repaso conceptos básicos Python.
 			
 	* Wili - M5 - 02 - Condicionales:
-			- Repaso condicionales Python.
+			 - Repaso condicionales Python.
 			
 	* Wili - M5 - 03 - Bucles:
-			- Repaso bucles Python.
+			 - Repaso bucles Python.
 			
 	* Wili - M5 - 04 - Funciones:
-			- Repaso funciones Python.
+			 - Repaso funciones Python.
 			
 	* Wili - M5 - 06 - Introducción a Machine Learning con Scikit-Learn:
-			- Introducción a ML usando load_boston.
+			 - Introducción a ML usando load_boston.
 			
 	* Wili - M5 - 07 - Regresión:
-			- Uso de modelos de regresión.
+			 - Uso de modelos de regresión.
 			
 	* Wili - M5 - 09 - Folium:
-			- Generación de mapas.
+			 - Generación de mapas.
 			
 ---			
 SpaceX:
