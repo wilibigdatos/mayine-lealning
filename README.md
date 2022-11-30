@@ -33,7 +33,7 @@ SpaceX:
 			- Desde la API de SpaceX descargamos info sobre vuelos de los Falcon.
 			
 	* Wili - SpaceX - 2 - EDA:
-			- Transofrmamos los datos buscando dividir los vuelos entre exitosos y no exitosos.
+			- Transformamos los datos buscando dividir los vuelos entre exitosos y no exitosos.
 			
 	* Wili - SpaceX - 4 - EDA with Data Visualization:
 			- Buscamos visualizaciones interesantes sobre los datos obtenidos, buscando patrones y relaciones entre ellos.
@@ -43,4 +43,6 @@ SpaceX:
 Prophet:
 	* Wili - Prophet - Predecir el valor de Bitcoin:
 			 - Predecimos la evolución del valor de Ethereum usando un modelo de regresión.
+	 
+	 		  
 	
