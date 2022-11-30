@@ -40,6 +40,7 @@ SpaceX:
 			
 
 ---
-Wili - Prophet - Predecir el valor de Bitcoin:
-	*	Predecimos la evolución del valor de Ethereum usando un modelo de regresión.
+Prophet:
+	* Wili	- Prophet - Predecir el valor de Bitcoin:
+		- Predecimos la evolución del valor de Ethereum usando un modelo de regresión.
 	
