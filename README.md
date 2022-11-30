@@ -39,10 +39,11 @@ SpaceX:
 			- Buscamos visualizaciones interesantes sobre los datos obtenidos, buscando patrones y relaciones entre ellos.
 			
 
----
+---			 
 Prophet:
 	* Wili - Prophet - Predecir el valor de Bitcoin:
 			 - Predecimos la evolución del valor de Ethereum usando un modelo de regresión.
+			
 	 
 	 		  
 	
